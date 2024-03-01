@@ -8,8 +8,6 @@
 #ifndef GameData_hpp
 #define GameData_hpp
 
-#include <stdio.h>
-
 class GameData
 {
 public:
